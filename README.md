@@ -1,2 +1,3 @@
-# Operation_System_Assignment_Round_Robin_Algorithm
-Homework 1 of Operating System Course Round Robin Algorithm
+# Round Robin CPU Scheduling
+
+Homework for an Operating Systems course implementing the Round Robin CPU scheduling algorithm in C++. Includes a makefile for building.
